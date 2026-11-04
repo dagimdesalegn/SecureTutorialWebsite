@@ -1,0 +1,12 @@
+{
+  "name": "project-30",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vercel dev", "start": "vercel dev" },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "jose": "^5.9.6"
+  },
+  "devDependencies": { "vercel": "^39.2.2" }
+}
